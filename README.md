@@ -26,27 +26,26 @@
 
 ### ⭐ **ETL Pipeline — SQL & Python** <img height="20" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" />
 
-End-to-end **Extract – Transform – Load (ETL)** project untuk memindahkan data mentah dari berbagai sumber (CSV, Excel, Database) menjadi dataset bersih yang siap dianalisis.
+A complete Extract – Transform – Load (ETL) pipeline designed to move raw data from multiple sources (CSV, Excel, databases) into a clean, consolidated dataset ready for analysis and reporting.
 
-**Extract:**  
-✔ Mengambil data dari CSV, Excel, dan MySQL  
-✔ Menarik data periodik otomatis dengan Python Scheduler
+Extract:
+✔ Pulling data from CSV, Excel, and MySQL databases
+✔ Automated scheduled extraction using Python (Cron / Scheduler)
 
-**Transform:**  
-✔ Data cleaning (missing values, outlier handling)  
-✔ Normalisasi format tanggal & tipe data  
-✔ Validasi duplications  
-✔ Business rules transformation (kategori, segmentasi)
+Transform:
+✔ Comprehensive data cleaning (handling missing values & outliers)
+✔ Standardizing date formats, data types, and naming conventions
+✔ Duplicate detection & validation checks
+✔ Applying business rules for categorization & segmentation
 
-**Load:**  
-✔ Memuat data bersih ke PostgreSQL  
-✔ Membuat incremental load (daily update)  
-✔ Logging proses ETL untuk monitoring error
+Load:
+✔ Loading cleaned datasets into PostgreSQL
+✔ Implementing incremental loading (daily updates)
+✔ Logging system for tracking process flow and identifying errors
 
-**Tools:** Python (Pandas), PostgreSQL, MySQL  
-**Skills:** ETL Workflow, Automation, Data Cleaning, SQL Insert/Update  
-🔗 *Project link coming soon*
-> *High-impact projects that demonstrate analytical thinking and technical ability.*
+Tools: Python (Pandas), PostgreSQL, MySQL
+Skills: ETL Workflow, Automation, Data Cleaning, SQL Insert/Update Operations
+🔗 Project link coming soon
 
 ### ⭐ **Retail Sales Analysis — SQL**
 Deep dive into customer behavior, revenue patterns, segmentation, and growth insights.  
