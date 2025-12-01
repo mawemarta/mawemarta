@@ -1,4 +1,4 @@
-## Hello World! I'm Marta Wea 👋
+<!-- ## Hello World! I'm Marta Wea 👋 -->
 
 ![Marta Wea](img/github-header-banner.png)
 
