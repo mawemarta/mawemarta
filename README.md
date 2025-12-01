@@ -21,10 +21,69 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 </p>
 
-##### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-wea-87b412360/)
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+##### Featured Project
+
+### ⭐ **ETL Pipeline — SQL & Python** <img height="20" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" />
+
+End-to-end **Extract – Transform – Load (ETL)** project untuk memindahkan data mentah dari berbagai sumber (CSV, Excel, Database) menjadi dataset bersih yang siap dianalisis.
+
+**Extract:**  
+✔ Mengambil data dari CSV, Excel, dan MySQL  
+✔ Menarik data periodik otomatis dengan Python Scheduler
+
+**Transform:**  
+✔ Data cleaning (missing values, outlier handling)  
+✔ Normalisasi format tanggal & tipe data  
+✔ Validasi duplications  
+✔ Business rules transformation (kategori, segmentasi)
+
+**Load:**  
+✔ Memuat data bersih ke PostgreSQL  
+✔ Membuat incremental load (daily update)  
+✔ Logging proses ETL untuk monitoring error
+
+**Tools:** Python (Pandas), PostgreSQL, MySQL  
+**Skills:** ETL Workflow, Automation, Data Cleaning, SQL Insert/Update  
+🔗 *Project link coming soon*
+> *High-impact projects that demonstrate analytical thinking and technical ability.*
+
+### ⭐ **Retail Sales Analysis — SQL**
+Deep dive into customer behavior, revenue patterns, segmentation, and growth insights.  
+**Tools:** MySQL / PostgreSQL  
+**Skills:** Joins, CTE, Window Functions, Aggregations  
+🔗 *Project link coming soon*
+
+---
+
+### ⭐ **Supermarket Dashboard — Excel/Tableau**
+Complete dashboard showing revenue, customer distribution, and product insights.  
+**Tools:** Excel / Tableau  
+**Skills:** Pivot Table, Power Query, Data Visualization  
+🔗 *Project link coming soon*
+
+---
+
+### ⭐ **Python Data Cleaning — Pandas**
+Cleaning large raw datasets with Pandas.  
+**Tools:** Python  
+**Skills:** Data wrangling, missing value handling, outlier detection  
+🔗 *Project link coming soon*
+
+
+
+##### Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/marta-wea-87b412360/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 
 ##### My Github Stats
 ![Marta's GitHub stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=mawemarta&show_icons=true&theme=radical)
