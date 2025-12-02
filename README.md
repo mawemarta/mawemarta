@@ -24,34 +24,38 @@
 
 ##### Featured Project
 
-### ⭐ **ETL Pipeline — SQL & Python** <img height="20" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" />
+### ⭐ **ETL Pipeline — SQL & Python** <img ⭐ ETL Pipeline — SQL & Python
+<img height="20" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" />
 
 A complete Extract – Transform – Load (ETL) pipeline designed to move raw data from multiple sources (CSV, Excel, databases) into a clean, consolidated dataset ready for analysis and reporting.
 
-Extract:
+Extract
+
 ✔ Pulling data from CSV, Excel, and MySQL databases
+
 ✔ Automated scheduled extraction using Python (Cron / Scheduler)
 
-Transform:
+Transform
+
 ✔ Comprehensive data cleaning (handling missing values & outliers)
+
 ✔ Standardizing date formats, data types, and naming conventions
+
 ✔ Duplicate detection & validation checks
+
 ✔ Applying business rules for categorization & segmentation
 
-Load:
+Load
+
 ✔ Loading cleaned datasets into PostgreSQL
+
 ✔ Implementing incremental loading (daily updates)
+
 ✔ Logging system for tracking process flow and identifying errors
 
 Tools: Python (Pandas), PostgreSQL, MySQL
 Skills: ETL Workflow, Automation, Data Cleaning, SQL Insert/Update Operations
 🔗 Project link coming soon
-
-### ⭐ **Retail Sales Analysis — SQL**
-Deep dive into customer behavior, revenue patterns, segmentation, and growth insights.  
-**Tools:** MySQL / PostgreSQL  
-**Skills:** Joins, CTE, Window Functions, Aggregations  
-🔗 *Project link coming soon*
 
 ---
 
