@@ -31,13 +31,13 @@ A complete Extract – Transform – Load (ETL) pipeline designed to move raw da
 
 Extract
 
-✔ Pulling data from CSV, Excel, and MySQL databases
+✔ Extract the data from the CSV and load it into a pandas Dataframe
 
 ✔ Automated scheduled extraction using Python (Cron / Scheduler)
 
 Transform
 
-✔ Comprehensive data cleaning (handling missing values & outliers)
+✔ Transform the data
 
 ✔ Standardizing date formats, data types, and naming conventions
 
@@ -47,7 +47,9 @@ Transform
 
 Load
 
-✔ Loading cleaned datasets into PostgreSQL
+✔ Create a database
+
+✔ Load the tranform data into the database
 
 ✔ Implementing incremental loading (daily updates)
 
@@ -55,7 +57,6 @@ Load
 
 Tools: Python (Pandas), PostgreSQL, MySQL
 Skills: ETL Workflow, Automation, Data Cleaning, SQL Insert/Update Operations
-🔗 Project link coming soon
 
 ---
 
